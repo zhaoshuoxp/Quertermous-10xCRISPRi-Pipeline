@@ -1,7 +1,7 @@
 
 # TAP-seq + SCEPTRE Analysis Pipeline
 
-This repository contains a streamlined pipeline to perform TAP-seq alignment with [**Cell Ranger**](https://github.com/10XGenomics/cellranger), generate filtered feature-barcode matrices, and perform [**SCEPTRE**](https://katsevich-lab.github.io/sceptre/) single-cell perturbation analysis.
+This repository contains a streamlined pipeline to perform TAP-seq alignment with [**Cell Ranger**](https://github.com/10XGenomics/cellranger) v8.0.0, generate filtered feature-barcode matrices, and perform [**SCEPTRE**](https://katsevich-lab.github.io/sceptre/) v0.10.0 single-cell perturbation analysis.
 
 ## 📁 Directory Structure
 
