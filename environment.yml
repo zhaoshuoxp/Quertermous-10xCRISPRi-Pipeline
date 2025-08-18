@@ -1,0 +1,31 @@
+name: Quertermous-TAPseq-Pipeline
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - h5py
+  - tqdm
+  - statsmodels
+
+  - r-base=4.3
+  - r-essentials
+
+  - r-base=4.3
+  - r-essentials
+  - r-devtools
+  - r-seurat
+  - r-reshape2
+  
+  - pip
+  - pip:
+      - r-sceptre-helper  
+
