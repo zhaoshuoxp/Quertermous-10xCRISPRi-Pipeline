@@ -102,7 +102,7 @@ After successful execution:
 
 ## ✨ Notes
 
-- This pipeline is optimized for **TAP-seq CRISPR guide capture** experiments.
+- This pipeline is optimized for **10x genomics CRISPR guide capture** experiments.
 - You can customize memory, thread number, or paths by modifying the top of `run_pipeline.sh`.
 - All outputs will be generated in the working directory by default.
 
